@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Reet1604
 - 👀 I’m interested in data scince
 - 🌱 I’m currently learning python , AI , ML , SQL ,PowerBI 
-- 💞️ I’m looking to collaborate on IT tech 
+- 💞️ I’m looking to Data scientist post
 - 📫 How to reach me ->  https://github.com/Reet1604
 
 <!---
