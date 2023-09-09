@@ -1,4 +1,4 @@
-🔭 I’m currently working on MLOPS(Deployment)
+🔭 I’m currently working on MLOPS(Deployment) ,python 
 
 🌱 I’m currently learning Generative AI and Machine learning
 
